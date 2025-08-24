@@ -10,7 +10,7 @@ Hobby= "Reading"
 print(Hobby)
 print("Student")
 print("School" )
-
+print("Grade")
       
 
 
