@@ -9,6 +9,9 @@ print(Ambition)
 Hobby= "Reading"
 print(Hobby)
 print("Student")
+print("School" )
+
+      
 
 
 
