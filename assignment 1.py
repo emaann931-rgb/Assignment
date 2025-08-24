@@ -8,6 +8,8 @@ Ambition= "Datascientist"
 print(Ambition)
 Hobby= "Reading"
 print(Hobby)
+print("Student")
+
 
 
 
