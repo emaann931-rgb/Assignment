@@ -12,6 +12,7 @@ print("Student")
 print("School" )
 print("Grade")
 print("Ambition")
+print("Hobby")
 
       
 
