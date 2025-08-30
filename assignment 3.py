@@ -1,0 +1,14 @@
+code="syntax"
+print(code) 
+code="python"
+print(code)
+code="variables"
+print(code)
+code="keywords"
+print(code)
+code="identifier"
+print(code)
+code="git"
+print(code)
+code="github"
+print(code)
