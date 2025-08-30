@@ -12,7 +12,16 @@ print("Student")
 print("School" )
 print("Grade")
 print("Ambition")
-print("Hobby")
+print("Hobb''
+ School= "Fatimatulzahra"
+ print(School)    
+
+
+
+
+
+
+
 
       
 
