@@ -1,0 +1,6 @@
+Name=input("what is your name")
+print(Name)
+Date=input("what is the date today")
+print(Date)
+Feedback=input("what is your Feedback")
+print(Feedback)
