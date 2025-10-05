@@ -26,5 +26,5 @@ floattrue=float(True)
 print(floattrue)
 floatfalse=float(False)
 print(floatfalse)
-floatPython=float(Python)
-print(floatPython)
+floatpython=float
+print(floatpython)
