@@ -1,0 +1,7 @@
+print("Welcome to the grocery store")
+Milk=int(input("what is the price of milk"))
+Bread=int(input("what is the price of Bread"))
+Eggs=int(input("what is the price of Eggs"))
+Butter=int(input("what is the price of Butter"))
+Chocolate=int(input("what is the price of Chocolate"))
+print(Milk+Bread+Eggs+Butter+Chocolate)
