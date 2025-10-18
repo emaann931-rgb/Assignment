@@ -33,8 +33,3 @@ side = float(input("Enter the side length of the square: "))
 
 # Calculate area
 area = side * side
-
-# Display result
-print("The area of the square is:", area)
-
-
